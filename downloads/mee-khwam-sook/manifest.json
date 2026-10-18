@@ -1,0 +1,37 @@
+{
+  "fileName": "mee-khwam-sook-project.zip",
+  "bytes": 84496886,
+  "sha256": "015673ef36bca4daea7f9368f30d38cfb1e81c6d495a539d4c14f8bd8582986d",
+  "parts": [
+    {
+      "url": "downloads/mee-khwam-sook/source-01.bin",
+      "bytes": 16777216,
+      "sha256": "7eaf1edee371201b9e7e43e7e4d4afd8b500693fe4f3a8516c47cda124efa67d"
+    },
+    {
+      "url": "downloads/mee-khwam-sook/source-02.bin",
+      "bytes": 16777216,
+      "sha256": "c6a82130c3ea1871fc9768f8907cdbc1abec07d49425e2659ff45cf6b8075c83"
+    },
+    {
+      "url": "downloads/mee-khwam-sook/source-03.bin",
+      "bytes": 16777216,
+      "sha256": "a9b862753bb4511bd2d2d83283c11fd29ba9a5f8e883aef7ad7012686082d6bd"
+    },
+    {
+      "url": "downloads/mee-khwam-sook/source-04.bin",
+      "bytes": 16777216,
+      "sha256": "62a01e18d42dc6d43e3a0f61e518377f0148a5a22d40d48ad0d0d1849c70e57b"
+    },
+    {
+      "url": "downloads/mee-khwam-sook/source-05.bin",
+      "bytes": 16777216,
+      "sha256": "5f36cb4b574d06c0b313b48c5d94faad59960d2255c79668e23e634cd63518c5"
+    },
+    {
+      "url": "downloads/mee-khwam-sook/source-06.bin",
+      "bytes": 610806,
+      "sha256": "56b0b5d42eccc9afcaac43e2941cf93f82ce9b97af0cf9bbeabe19d5ea0179ac"
+    }
+  ]
+}
